@@ -7,15 +7,11 @@
     <img src="https://img.shields.io/badge/-coelhogabrielcs-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn badge">
 </a>
 
----
-
 ## 👨‍🎓 About Me
 
 - 👨‍💻 I'm an IT student at CEFET-MG
 - 🏡 I'm from Brazil
 - 📚 Currently studying to improve my skils and work in the tech industry!
-
----
 
 ## 🚀 Technologies and tools
 
@@ -26,8 +22,6 @@
 ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Github badge](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
 
 ## 📖 Learning now
 
