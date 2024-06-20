@@ -9,9 +9,8 @@
 
 ## 👨‍🎓 About Me
 
-- 👨‍💻 I'm an IT student at CEFET-MG
+- 👨‍💻 I'm an CS student at UFMG
 - 🏡 I'm from Brazil
-- 📚 Currently looking for an internship in IT!
 
 ## 🚀 Technologies and tools
 
