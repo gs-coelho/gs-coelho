@@ -9,7 +9,8 @@
 
 ## 👨‍🎓 About Me
 
-- 👨‍💻 I'm an CS student at UFMG
+- 👨‍💻 I'm a CS student at UFMG
+- 📚 I'm an IT Tech, and got my technician's degree at CEFET-MG
 - 🏡 I'm from Brazil
 
 ## 🚀 Technologies and tools
